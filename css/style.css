@@ -4,3 +4,7 @@
     display: block;
     margin: auto;
 }
+#image-caption {
+    text-align: center;
+    font-size: 15px;
+    }
